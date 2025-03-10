@@ -92,7 +92,7 @@
 }
 
 .main-bottom {
-	position: absolute;
+	position: sticky;
 	bottom: 0;
 	width: 100%;
 	max-width: 900px;
