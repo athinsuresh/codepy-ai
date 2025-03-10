@@ -147,7 +147,7 @@
 	max-height: 80vh;
 	overflow-y: auto;
 	color: #DADADA;
-	max-height: calc(100vh-140px);
+	max-height: calc(100vh - 140px);
 	/* Softer light text */
 	scroll-behavior: smooth;
 }
