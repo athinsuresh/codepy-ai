@@ -1,9 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Audiowide&family=Montserrat&display=swap");
 .main {
-	flex: 1;
-	min-height: 100vh;
-	padding-bottom: 0vh;
-	position: relative;
+	display: flex;
+	flex-direction: column;
 	background-color: #1e1e1e;
 	/* Dark background */
 	color: #EAEAEA;
