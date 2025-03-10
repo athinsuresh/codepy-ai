@@ -69,6 +69,8 @@ const Main = () => {
         )}
 
         <div className="main-bottom">
+          
+          <div className="bottom-info">
           <div className="search-box">
             <input
               onChange={(e) => setInput(e.target.value)}
@@ -93,7 +95,6 @@ const Main = () => {
               />
             </div>
           </div>
-          <div className="bottom-info">
             <p>
               CodePy AI Assistant may display inaccurate info, including about people, so
               double-check its responses. 
