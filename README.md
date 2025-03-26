@@ -11,8 +11,8 @@ This project introduces a React-based web application that functions as a clone 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/niladri-1/Gemini-Chatbot.git
-   cd Gemini-Chatbot
+   git clone https://github.com/athinsuresh/codepy-ai/
+   cd codepy-ai
    ```
 
 2. **Install dependencies:**
